@@ -1,0 +1,35 @@
+#titulo {
+    color: navy;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.descripcion {
+    color: #333;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #e0f7fa;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.subtitulo {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    border: 2px solid #ccc;
+    margin: 20px;
+    background-color: #f9f9f9;
+    padding: 10px;
+}
+
+.firma {
+    text-align: right;
+    font-style: italic;
+    color: green;
+    font-size: 14px;
+}
